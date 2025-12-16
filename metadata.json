@@ -1,0 +1,7 @@
+{
+  "name": "Use-Free-TTS",
+  "description": "Made in india",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
